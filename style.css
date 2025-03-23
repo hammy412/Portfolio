@@ -152,3 +152,14 @@ nav a:active {
     width: 25px;
     height: 25px;
 }
+
+.linkedin {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.linkedin img {
+    width: 25px;
+    height: 25px;
+}
